@@ -1,5 +1,5 @@
 //
-// Created for GuageView Demo
+// Created for GaugeView Demo
 // by Stewart Lynch on 2022-09-30
 // Using Swift 5.0
 //

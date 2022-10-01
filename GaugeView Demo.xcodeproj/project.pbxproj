@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BB18AB0228E74610003A952B /* GuageView Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GuageView Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB18AB0228E74610003A952B /* GaugeView Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GaugeView Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB18AB0528E74610003A952B /* AppEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEntry.swift; sourceTree = "<group>"; };
 		BB18AB0728E74610003A952B /* StartTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartTab.swift; sourceTree = "<group>"; };
 		BB18AB0928E74611003A952B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		BB18AAF928E74610003A952B = {
 			isa = PBXGroup;
 			children = (
-				BB18AB0428E74610003A952B /* GuageView Demo */,
+				BB18AB0428E74610003A952B /* GaugeView Demo */,
 				BB18AB0328E74610003A952B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,12 +51,12 @@
 		BB18AB0328E74610003A952B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BB18AB0228E74610003A952B /* GuageView Demo.app */,
+				BB18AB0228E74610003A952B /* GaugeView Demo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BB18AB0428E74610003A952B /* GuageView Demo */ = {
+		BB18AB0428E74610003A952B /* GaugeView Demo */ = {
 			isa = PBXGroup;
 			children = (
 				BB18AB0528E74610003A952B /* AppEntry.swift */,
@@ -68,7 +68,7 @@
 				BB18AB0B28E74611003A952B /* Preview Content */,
 				BB18AB1928E78516003A952B /* Launch Screen.storyboard */,
 			);
-			path = "GuageView Demo";
+			path = "GaugeView Demo";
 			sourceTree = "<group>";
 		};
 		BB18AB0B28E74611003A952B /* Preview Content */ = {
@@ -82,9 +82,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BB18AB0128E74610003A952B /* GuageView Demo */ = {
+		BB18AB0128E74610003A952B /* GaugeView Demo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BB18AB1028E74611003A952B /* Build configuration list for PBXNativeTarget "GuageView Demo" */;
+			buildConfigurationList = BB18AB1028E74611003A952B /* Build configuration list for PBXNativeTarget "GaugeView Demo" */;
 			buildPhases = (
 				BB18AAFE28E74610003A952B /* Sources */,
 				BB18AAFF28E74610003A952B /* Frameworks */,
@@ -94,9 +94,9 @@
 			);
 			dependencies = (
 			);
-			name = "GuageView Demo";
+			name = "GaugeView Demo";
 			productName = "GuageView Demo";
-			productReference = BB18AB0228E74610003A952B /* GuageView Demo.app */;
+			productReference = BB18AB0228E74610003A952B /* GaugeView Demo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BB18AAFD28E74610003A952B /* Build configuration list for PBXProject "GuageView Demo" */;
+			buildConfigurationList = BB18AAFD28E74610003A952B /* Build configuration list for PBXProject "GaugeView Demo" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,7 +127,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BB18AB0128E74610003A952B /* GuageView Demo */,
+				BB18AB0128E74610003A952B /* GaugeView Demo */,
 			);
 		};
 /* End PBXProject section */
@@ -282,7 +282,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"GuageView Demo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"GaugeView Demo/Preview Content\"";
 				DEVELOPMENT_TEAM = RKV4UP49S6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -313,7 +313,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"GuageView Demo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"GaugeView Demo/Preview Content\"";
 				DEVELOPMENT_TEAM = RKV4UP49S6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -340,7 +340,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BB18AAFD28E74610003A952B /* Build configuration list for PBXProject "GuageView Demo" */ = {
+		BB18AAFD28E74610003A952B /* Build configuration list for PBXProject "GaugeView Demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BB18AB0E28E74611003A952B /* Debug */,
@@ -349,7 +349,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BB18AB1028E74611003A952B /* Build configuration list for PBXNativeTarget "GuageView Demo" */ = {
+		BB18AB1028E74611003A952B /* Build configuration list for PBXNativeTarget "GaugeView Demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BB18AB1128E74611003A952B /* Debug */,
